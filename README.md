@@ -2,13 +2,11 @@
 
 # shadow
 
-A private AI application to create your digital clone. Fine-tune an LLM model to be you and delegate your day-to-day tasks to it.
+A agent management framework to manage lattice agents. Clone, run, deploy and destroy your ai agents seemlessly.
 
 ---
 
 ## Vision
-
-Shadow is the foundation for building your personal digital assistant—a "Jarvis" for the modern era. The core idea is to empower individuals with a customizable AI clone capable of managing tasks, automating workflows, and acting as a genuine extension of yourself.
 
 With Shadow, you can install various AI agents as plugins, allowing you to tailor your assistant's capabilities to your unique needs. Whether you want your digital clone to organize your schedule, answer emails, conduct research, manage IoT devices, or even write code, Shadow can be extended through its modular architecture.
 
@@ -21,13 +19,6 @@ With Shadow, you can install various AI agents as plugins, allowing you to tailo
 - **Voice & Chat Interface**: Interact using natural language, as if talking to your own digital companion.
 - **Agent Framework**: Build and share plugins so Shadow can grow with the community.
 
-## Example Use Cases
-
-- Schedule meetings and reminders autonomously.
-- Summarize emails and draft replies in your writing style.
-- Write code, troubleshoot issues, or automate DevOps routines.
-- Control smart devices or integrate with other digital services.
-- Conduct personalized research and keep you updated on topics of interest.
 
 ## Getting Started
 
