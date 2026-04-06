@@ -2,7 +2,7 @@
 
 # shadow
 
-A agent management framework to manage lattice agents. Clone, run, deploy and destroy your ai agents seemlessly.
+An agent management framework to manage AI agents.
 
 ---
 
@@ -16,8 +16,7 @@ With Shadow, you can install various AI agents as plugins, allowing you to tailo
 - **Privacy-first**: Your data never leaves your control; run everything locally or on private infrastructure.
 - **Pluggable AI Agents**: Extend Shadow by installing specialized AI agents (plugins) for different tasks (calendar, email, coding, smart home, etc.).
 - **Task Delegation**: Automate repetitive or complex workflows; offload day-to-day chores to your assistant.
-- **Voice & Chat Interface**: Interact using natural language, as if talking to your own digital companion.
-- **Agent Framework**: Build and share plugins so Shadow can grow with the community.
+- **Agent Community**: Build and share plugins so Shadow can grow with the community.
 
 
 ## Getting Started
@@ -31,10 +30,6 @@ With Shadow, you can install various AI agents as plugins, allowing you to tailo
 
 - Agents are isolated plugins implementing well-defined interfaces.
 - Easily install, configure, or remove agents as your needs evolve.
-- Example: 
-    - `ChatAgent`: for conversations
-    - `CalendarAgent`: for managing events
-    - `CodeAgent`: for coding help
 
 ## Roadmap
 
@@ -49,5 +44,3 @@ With Shadow, you can install various AI agents as plugins, allowing you to tailo
 Interested in building the future of personal AI? Contributions of all kinds—features, plugins, documentation, and ideas—are welcome!
 
 ---
-
-*Shadow: Your mind, your agent, your digital horizon.*
